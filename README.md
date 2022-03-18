@@ -1,14 +1,6 @@
-# Calculateur de Moyenne
-<script>
-    .titre {
-        color : #25FDE9;
-        font-size : 23px;
-    }
-    .Tag {
-        color : #791CF8;
-        font-size : 12px;
-    }
-</script>
+
+<h1 align="center">Calculateur de Moyenne Python</h1>
+
 <h2 class="Titre">Calcule la moyenne de différentes notes en python</h2>
 <br>
 <br>
