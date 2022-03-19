@@ -1,5 +1,6 @@
 
 <h1 align="center">Calculateur de Moyenne Python</h1>
+<br>
 <p align="center"> <img src="https://github.com/AntoninMichon/moyenne/blob/main/img/python.png"/> </p>
 <br>
 <h2>Calcule la moyenne de différentes notes en python</h2>
